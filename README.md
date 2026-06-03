@@ -16,7 +16,6 @@
 ## Research Framework
 
 ![](ppt/1.png)
-![](ppt/1.png)
 ![](ppt/2.png)
 ![](ppt/3.png)
 ![](ppt/4.png)
